@@ -1,0 +1,1 @@
+A packet of Noodles, A glass of water, masala, vegetables.
