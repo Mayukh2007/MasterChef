@@ -1,2 +1,1 @@
-# Making noodles
-#The recipe is about MAKING  Noodles
+The recipe is about MAKING  Noodles
